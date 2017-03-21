@@ -1,2 +1,2 @@
-# assignments
-Assessments for UX/Devs etc.
+# Set of Assignments
+Assignments for UX, Software Engineers, Product Managers.

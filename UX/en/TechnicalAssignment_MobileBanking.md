@@ -1,5 +1,5 @@
 # General Description
-Purpose of this assignment is to get an understanding about you as a person and about your skills.
+The main purpose of this assignment is for you and us to understand whether we can work together.
 
 We'd like you to propose a design for a mobile bank in form of a clickable prototype.
 
